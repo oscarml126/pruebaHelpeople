@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/pruebaHelpeople/static/css/main.ef8110c8.css",
-    "main.js": "/pruebaHelpeople/static/js/main.18e76bf6.js",
-    "index.html": "/pruebaHelpeople/index.html",
-    "main.ef8110c8.css.map": "/pruebaHelpeople/static/css/main.ef8110c8.css.map",
-    "main.18e76bf6.js.map": "/pruebaHelpeople/static/js/main.18e76bf6.js.map"
+    "main.css": "/static/css/main.ef8110c8.css",
+    "main.js": "/static/js/main.18e76bf6.js",
+    "index.html": "/index.html",
+    "main.ef8110c8.css.map": "/static/css/main.ef8110c8.css.map",
+    "main.18e76bf6.js.map": "/static/js/main.18e76bf6.js.map"
   },
   "entrypoints": [
     "static/css/main.ef8110c8.css",
