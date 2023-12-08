@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pruebaHelpeople/static/css/main.ef8110c8.css",
+    "main.js": "/pruebaHelpeople/static/js/main.18e76bf6.js",
+    "index.html": "/pruebaHelpeople/index.html",
+    "main.ef8110c8.css.map": "/pruebaHelpeople/static/css/main.ef8110c8.css.map",
+    "main.18e76bf6.js.map": "/pruebaHelpeople/static/js/main.18e76bf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef8110c8.css",
+    "static/js/main.18e76bf6.js"
+  ]
+}
