@@ -1,6 +1,5 @@
 {
   "name": "prueba_helppeople",
-  "homepage": "https://oscarml126.github.io/pruebaHelpeople",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
